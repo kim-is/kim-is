@@ -21,6 +21,13 @@
 <!-- Linux --> <img src="https://img.shields.io/badge/R-276DC3?&logo=R&logoColor=white"/></a>
 #### using Edit
 
+
+<!--
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+-->
+
+
 <!-- 설명
 **kim-is/kim-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
